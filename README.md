@@ -1,7 +1,9 @@
 <h1> Tanks </h1>
-<img src="./review" />
 A game made with Unreal engine and C++. 
-It uses c++ classes extended by unreal blueprints. 
+Among the features implemented are:
 <ul>
-  <li> it implements ray tracing </li>
+  <li> extending c++ classes with the unreal blueprint system </li>
+  <li> coding player and enemy movement, attacks and death </li>
+  <li> coding visual and sound effects </li>
+  <li> implementing a main menu </li>
 </ul>
